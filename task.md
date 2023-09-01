@@ -1,0 +1,2 @@
+- [x] [View Transitions API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API)
+- [ ] [memos/notes/どうにか memos をこのリポジトリの形態を保ったまま web に公開できないか.md at main · moekidev/memos](https://github.com/moekidev/memos/blob/main/notes/%E3%81%A9%E3%81%86%E3%81%AB%E3%81%8Bmemos%E3%82%92%E3%81%93%E3%81%AE%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E5%BD%A2%E6%85%8B%E3%82%92%E4%BF%9D%E3%81%A3%E3%81%9F%E3%81%BE%E3%81%BEweb%E3%81%AB%E5%85%AC%E9%96%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%8B.md)
