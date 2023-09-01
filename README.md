@@ -1,0 +1,2 @@
+# memos
+moekidev's memos
