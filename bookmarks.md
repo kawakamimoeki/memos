@@ -107,3 +107,4 @@
 - [Bazel](https://bazel.build/?hl=ja)
 - [Turbo](https://turbo.build/)
 - [GraphQL を導入する時に考えておいたほうが良いこと | メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/20220303-concerns-with-using-graphql/)
+- [bigskysoftware/htmx: </> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
